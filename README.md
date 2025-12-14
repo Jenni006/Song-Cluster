@@ -2,10 +2,6 @@
 
 A reproducible Jupyter Notebook project for exploring, preprocessing, and clustering music tracks using audio features, metadata, or precomputed embeddings. The notebook is designed for technical users who want to experiment with unsupervised learning (KMeans, DBSCAN, Agglomerative, etc.), evaluate cluster quality, and visualize results with dimensionality reduction (PCA, UMAP, t-SNE).
 
-Badges
-- CI: (add your CI badge)
-- License: (add license badge)
-
 Table of contents
 - Project overview
 - Repository layout
